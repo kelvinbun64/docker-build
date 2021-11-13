@@ -1,0 +1,1 @@
+sh -c "/usr/sbin/nginx"
